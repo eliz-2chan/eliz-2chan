@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My Name is **Faizal Aziz**
+
+If you are interested in getting to know me, please follow me on [Linkedin](https://www.linkedin.com/in/faizal-aziz-51ba332b4/).
+
 <!--
 **aziz-faizal/aziz-faizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
